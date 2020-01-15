@@ -1,4 +1,4 @@
-package com.Diyan;
+package com.diyan;
 
 public class Main {
 
