@@ -2,7 +2,7 @@ package com.diyan.exercise;
 
 import java.util.*;
 
-public class SolutionJava7 {
+public class ExerciseOneJava7 {
     public static void main(String[] args) {
         List<Person> people = Arrays.asList(
                 new Person("Diyan", "Simeonov", 28),
